@@ -17,43 +17,43 @@
       'zero zero decimal equals';
     grid-gap: 1px;
     height: 320px;
-  } 
+} 
   
-  .button {
+.button {
     background: #595959;
     color: white;
     border: none;
     font-family: digital;
     font-size: 20px;
-  }
-  
-  .button:hover {
+}
+
+.button:hover {
     border-color: white;
     border: solid;
     border-width: 1px;
     border-color: white;
     cursor: pointer;
     color: black;
-  }
+}
   
-  .button-light {
+.button-light {
     background: #8c8c8c;
-  }
+}
   
-  .a-c {
+.a-c {
     grid-area: a-c;
     background: #cc0000;
-  }
+}
   
-  .zero {
+.zero {
     grid-area: zero;
     background: #cc0000;
-  }
+}
   
-  .equals {
+.equals {
     background: #004080;
     grid-area: equals;
-  }
+}
   
   
   
